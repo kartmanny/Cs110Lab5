@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/kartmanny/Cs110Lab5.svg?branch=master)](https://travis-ci.org/kartmanny/Cs110Lab5)
